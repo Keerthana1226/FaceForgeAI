@@ -1,4 +1,4 @@
-# FaceForge AI – AI-Powered Portrait Generation & Editing
+# FaceForgeAI – AI-Powered Portrait Generation & Editing
 
 **Generate and modify realistic human portraits from natural language descriptions using Stable Diffusion.**  
 Designed for **forensics, investigations, and creative industries**, FaceForge AI turns witness descriptions into accurate portraits, allows targeted edits, and matches against a face database for possible identity suggestions.
