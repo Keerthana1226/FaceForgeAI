@@ -57,25 +57,25 @@ The system follows these key steps:
 ## Screenshots  
 
 ### Text-to-Portrait Generation  
-<img src="images/generation.png" alt="Generation Screenshot" width="500">  
+<img src="images/potraitproject.png" alt="Generation Screenshot" width="500">  
 *Generates a realistic portrait directly from a text description.*  
 
 ---
 
 ### Feature-Specific Inpainting  
-<img src="images/inpainting.png" alt="Inpainting Screenshot" width="500">  
+<img src="images/imageafterchanges.jpg" alt="Inpainting Screenshot" width="500">  
 *Modify selected facial features without affecting the rest of the image.*  
 
 ---
 
 ### Face Matching Results  
-<img src="images/matching.png" alt="Matching Screenshot" width="500">  
+<img src="images/databaseMatch.jpg" alt="Matching Screenshot" width="500">  
 *Matches generated portraits with the closest identities from the database.*  
 
 ---
 
 ## Flowchart  
-<img src="images/flowchart.png" alt="Flowchart" width="600">  
+<img src="images/Genesys_Flowchart.jpg" alt="Flowchart" width="600">  
 *The complete process from description to identity suggestion.*  
 
 ---
